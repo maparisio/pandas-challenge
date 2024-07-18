@@ -1,5 +1,5 @@
 # pandas-challenge
-Analyzing school and standardized test data
+In this assignment, I will create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 # Background
 
